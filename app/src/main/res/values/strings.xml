@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Individual Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">OldTwist\nWelcome!</string>
+    <string name="swipe"> &gt;&gt; Swipe For Instructions \n &lt;&lt; Swipe To Start Editing </string>
+    <string name="large_text">
+        OldTwist is a photo editor app with a bunch of old school filters that will take you down the memory lane. \n
+        To Use this application all you need to know is the following cheat sheet.\n
+        STEP 1: Swipe left from here to select an image from the gallery.\n
+        STEP 2: Tap with two fingers to rotate image.\n
+        STEP 3: Swipe left after rotating to add filters.\n
+        STEP 4: Sweep your hand over the phone to add filters.\n
+        STEP 5: Swipe right to save the edited image to your gallery.\n
+    </string>
+    <string name="title_activity_edit_pic">EditPic</string>
+    <string name="title_activity_gallery_page">GalleryPage</string>
+    <string name="title_activity_instructions">Instructions</string>
+</resources>
